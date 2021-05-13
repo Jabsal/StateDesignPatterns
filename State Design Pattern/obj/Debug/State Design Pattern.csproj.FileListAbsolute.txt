@@ -1,0 +1,19 @@
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.exe.config
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.exe
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.pdb
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csprojAssemblyReference.cache
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\UI\EntryPage.g.cs
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\UI\MainWindow.g.cs
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\UI\StatusPage.g.cs
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\App.g.cs
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern_MarkupCompile.cache
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern_MarkupCompile.lref
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\UI\EntryPage.baml
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\UI\MainWindow.baml
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\UI\StatusPage.baml
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.g.resources
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\State_Design_Pattern.Properties.Resources.resources
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csproj.GenerateResource.cache
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.exe
+C:\Users\UI750530.ENERGY\Downloads\c-sharp-design-patterns-state\02\demos\State Design Pattern\State Design Pattern Complete\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.pdb
